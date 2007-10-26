@@ -19,23 +19,25 @@ is possible to view how a new theme looks without activating it.
 2. Activate in the `Plugins` menu.
 3. Visit your site with a special parameter added to the URL
 
-Add query variables `preview\_theme` and/or `preview\_css` to your query
+Add query variables `preview_theme` and/or `preview_css` to your query
 string. For example, if you have a theme named "My Theme", which is
 installed in your `wp-content/themes/my-theme` directory, add the theme's
 directory name to your URL like this:
 
- http://example.com/index.php?preview\_theme=my-theme
+	http://example.com/index.php?preview\_theme=my-theme
 
 Sometimes, you create a new look for your site by just making new CSS, but
-you keep the existing PHP files intact. In that case, you con use the
+you keep the existing PHP files intact. In that case, you con use the 
 `preview_css` variable instead of `preview_theme`, or use them both
 together, like this:
 
- http://example.com/index.php?preview\_theme=default&preview\_css=my-theme
+	http://example.com/index.php?preview\_theme=default&preview\_css=my-theme
 
 == TODO ==
+
 Possible future enhancements:
- * Add an options screen.
- * Allow choice of theme to preview from a known list of installed themes.
- * Provide persistent previews by setting a cookie.
- * Restrict preview ability by user Roles/Capabilities.
+
+* Add an options screen.
+* Allow choice of theme to preview from a known list of installed themes.
+* Provide persistent previews by setting a cookie.
+* Restrict preview ability by user Roles/Capabilities.
