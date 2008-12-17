@@ -25,7 +25,7 @@ string. For example, if you have a theme named "My Theme", which is
 installed in your `wp-content/themes/my-theme` directory, add the theme's
 directory name to your URL like this:
 
-	http://example.com/index.php?preview\_theme=my-theme
+	http://example.com/index.php?preview_theme=my-theme
 
 Sometimes, you create a new look for your site by just making new CSS, but
 you keep the existing PHP files intact. In that case, you con use the 
