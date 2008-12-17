@@ -5,7 +5,7 @@
  * Description: Allows themes to be previewed without activation
  * Author: Dougal Campbell
  * Author URI: http://dougal.gunters.org/
- * Version: 1.1
+ * Version: 1.2
  */
 
 /*
