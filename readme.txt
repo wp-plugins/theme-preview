@@ -1,10 +1,10 @@
 === Theme Preview ===
 Contributors: dougal
 Donate link: http://dougal.gunters.org/donate
-Tags: themes, presentation, testing, preview, css, admin
+Tags: themes, presentation, testing, preview, css, admin, themepreview, theme preview, preview theme
 Requires at least: 1.5
-Tested up to: 2.3.1
-Stable Tag: 1.0
+Tested up to: 2.7.1
+Stable Tag: 1.1
 
 Allows you test how a theme looks on your site without activating it.
 
@@ -32,7 +32,7 @@ you keep the existing PHP files intact. In that case, you con use the
 `preview_css` variable instead of `preview_theme`, or use them both
 together, like this:
 
-	http://example.com/index.php?preview\_theme=default&preview\_css=my-theme
+	http://example.com/index.php?preview_theme=default&preview_css=my-theme
 
 == TODO ==
 
