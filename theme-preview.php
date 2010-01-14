@@ -2,7 +2,6 @@
 /*
  * Plugin Name: Theme Preview
  * Plugin URI: http://dougal.gunters.org/plugins/theme-preview
- * Plugin URI: http://dougal.gunters.org/blog/2005/03/09/theme-preview-plugin/
  * Description: Allows themes to be previewed without activation
  * Author: Dougal Campbell
  * Author URI: http://dougal.gunters.org/
@@ -20,6 +19,9 @@
  * 
  *  * Add an options page with theme selection, and persistence setting.
  *  * Use cookies to allow persistent theme previews.
+ *
+ * DEMO:
+ *  http://dougal.gunters.org/blog/2005/03/09/theme-preview-plugin/
  */
 
 /* Convenience variables */
