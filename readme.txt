@@ -42,3 +42,7 @@ Possible future enhancements:
 * Allow choice of theme to preview from a known list of installed themes.
 * Provide persistent previews by setting a cookie.
 * Restrict preview ability by user Roles/Capabilities.
+
+== Changelog ==
+= 1.2 2010-01-14 =
+* Tested with WordPress 3.0-alpha
