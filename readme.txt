@@ -3,8 +3,8 @@ Contributors: dougal
 Donate link: http://dougal.gunters.org/donate
 Tags: themes, presentation, testing, preview, css, admin, themepreview, theme preview, preview theme
 Requires at least: 1.5
-Tested up to: 2.7.1
-Stable Tag: 1.1
+Tested up to: 3.0-alpha
+Stable Tag: 1.2
 
 Allows you test how a theme looks on your site without activating it.
 
@@ -42,3 +42,7 @@ Possible future enhancements:
 * Allow choice of theme to preview from a known list of installed themes.
 * Provide persistent previews by setting a cookie.
 * Restrict preview ability by user Roles/Capabilities.
+
+== Changelog ==
+= 1.2 2010-01-14 =
+* Tested with WordPress 3.0-alpha
